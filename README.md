@@ -8,7 +8,7 @@
 
 
 ### Sobre mim
-Sou Python back-end Developer | Web Crawler Developer Jr. na empresa [@turn2c](https://www.turn2c.com/).
+Sou Python back-end Developer | Web Crawler Developer Pleno. na empresa [@turn2c](https://www.turn2c.com/).
 
 :triangular_flag_on_post: Essas são algumas das minhas habilidades:
 
